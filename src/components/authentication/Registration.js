@@ -260,9 +260,10 @@ const Registration = () => {
 									</div>
 									<div className="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">
 										<img
-											src="https://rb.gy/ussc3"
+											src="https://tinyurl.com/3e5nwz5d"
 											className="img-fluid"
 											alt="Sample image"
+											style={{height:"50%",marginBottom:"25%"}}
 										/>
 									</div>
 								</div>
